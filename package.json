@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-cs",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KushagraDwivedics/currency-converter-cs.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Kushagra Dwivedi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KushagraDwivedics/currency-converter-cs/issues"
+  },
+  "homepage": "https://github.com/KushagraDwivedics/currency-converter-cs#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
